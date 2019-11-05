@@ -8,7 +8,8 @@
       {
         "title": "Step 1",
         "text": "step1.md",
-        "verify": "verify.sh"
+        "verify": "verify.sh",
+        "answer": "answer.md"
       },
       {
         "title": "Step 2",
